@@ -1,6 +1,13 @@
 # Évora Ambientes Planejados
 
 ![Évora Ambientes Planejados](https://github.com/user-attachments/assets/e4f9b1be-6cd9-42d9-8b4b-0ef492c46717)
+
+![Évora Ambientes Planejados](https://github.com/user-attachments/assets/19b4ee83-862c-48cd-90a1-27345b013ef6)
+
+![Évora Ambientes Planejados](https://github.com/user-attachments/assets/96a0f1de-b5d1-4429-bef4-1ae8fbcccd99)
+
+![Évora Ambientes Planejados](https://github.com/user-attachments/assets/9ad579a0-bc32-413f-becc-e329b7104126)
+
 ## Sobre o Projeto
 
 Évora Ambientes Planejados é um site profissional desenvolvido para uma empresa especializada em móveis planejados e marcenaria de alta qualidade. O projeto foi construído utilizando tecnologias modernas para garantir a melhor experiência do usuário.
