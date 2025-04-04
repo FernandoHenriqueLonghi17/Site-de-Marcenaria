@@ -1,7 +1,6 @@
 # Évora Ambientes Planejados
 
-![Évora Ambientes Planejados](https://images.unsplash.com/photo-1581016120489-8fcc8a6f3d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
-
+![Évora Ambientes Planejados](https://github.com/user-attachments/assets/e4f9b1be-6cd9-42d9-8b4b-0ef492c46717)
 ## Sobre o Projeto
 
 Évora Ambientes Planejados é um site profissional desenvolvido para uma empresa especializada em móveis planejados e marcenaria de alta qualidade. O projeto foi construído utilizando tecnologias modernas para garantir a melhor experiência do usuário.
